@@ -1,4 +1,4 @@
-package Task1;
+package task01;
 import java.util.*;
 public class Password {
     static String password = "123456";
